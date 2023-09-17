@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm [Fatemeh]!<br><br>👨‍💻 I'm a passionate .NET developer And learning and progressing.<br><br>🚀 My journey in software development has led me to work on a variety of projects, from web applications to backend services, utilizing technologies like ASP.NET Core, Entity Framework, and SQL Server. I'm always eager to learn and stay up-to-date with the latest industry trends.<br><br>📫 You can reach me via email at FM.FatemehMirzaei@gmail.com or connect with me on LinkedIn linkedin.com/in/fatemehmirzaei.
+👋 Hello, I'm Fatemeh!<br><br>👨‍💻 I'm a passionate .NET developer And learning and progressing.<br><br>🚀 My journey in software development has led me to work on a variety of projects, from web applications to backend services, utilizing technologies like ASP.NET Core, Entity Framework, and SQL Server. I'm always eager to learn and stay up-to-date with the latest industry trends.<br><br>📫 You can reach me via email at FM.FatemehMirzaei@gmail.com or connect with me on LinkedIn linkedin.com/in/fatemehmirzaei.
 
 
 ## 🌐 Socials:
